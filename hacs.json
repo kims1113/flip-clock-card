@@ -1,0 +1,7 @@
+{
+  "name": "Flip Clock Card",
+  "render_as_panel": false,
+  "type": "layout",
+  "javascript_content": true,
+  "filename": "flip-clock-card.js"
+}
