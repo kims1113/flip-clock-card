@@ -1,9 +1,10 @@
 {
   "name": "Flip Clock Card",
   "render_as_panel": false,
-  "type": "layout",
+  "type": "lovelace",
   "javascript_content": true,
   "filename": "flip-clock-card.js"
 
 }
+
 
