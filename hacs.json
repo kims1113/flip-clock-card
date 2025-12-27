@@ -3,6 +3,7 @@
   "render_as_panel": false,
   "type": "layout",
   "javascript_content": true,
-  "filename": "dist/flip-clock-card.js"
+  "filename": "flip-clock-card.js"
 
 }
+
